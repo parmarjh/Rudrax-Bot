@@ -2,7 +2,7 @@
 
 ## 🌟 India's Revolutionary AI-Powered Chatbot Platform
 
-![Rudrax Bot Logo](https://via.placeholder.com/1200x600.png?text=Rudrax+Bot+Logo)
+![Rudrax Bot Logo](Rudrax Bot - Indian AI Cloud Chatbot Platform logo.png)
 
 ### 🚀 Vision
 Rudrax Bot is a cutting-edge AI chatbot platform born in the heart of India's tech ecosystem, designed to democratize artificial intelligence and provide powerful, accessible AI solutions for businesses, developers, and individuals.
